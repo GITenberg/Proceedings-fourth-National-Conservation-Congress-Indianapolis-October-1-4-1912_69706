@@ -1,0 +1,30 @@
+_repo: Proceedings-fourth-National-Conservation-Congress-Indianapolis-October-1-4-1912_69706
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Various
+    aliases:
+    - Verschillende
+    - Various, Various
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+description: ''
+gutenberg_issued: '2023-01-04'
+identifiers:
+  gutenberg: '69706'
+language: en
+pgterms:marc905: 20070307200147authors
+pgterms:marc906: '1911'
+pgterms:marc907: US
+production_note: Bob Taylor, Bryan Ness and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This book was produced from scanned images of public domain
+  material from the Google Books project.)
+publication_note: 'United States: National Conservation Congress,1911,pubdate 1912.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Proceedings fourth National Conservation Congress: Indianapolis, October 1-4,
+  1912'
+url: http://www.gutenberg.org/ebooks/69706
